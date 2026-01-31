@@ -25,9 +25,7 @@
     <td style="min-width: 300px;">
       <p>👋 Hi! I'm <strong>Zhafran Amuri</strong>, Frontend and Backend</p>
       <p>🧑‍🎓 I'm still learning and exploring the world of web development.</p>
-      <p>💻 Currently focused on becoming a <strong>Full-Stack Developer</strong> by learning <strong>Laravel, React, Node.js</strong>, and <strong>MySQL</strong>.</p>
-      <p>🎯 building small projects to practice what I’ve learned and always curious about how things work behind the scenes.</p>
-      <p>🍔 Fun fact: I think better when I’m eating — snacks make debugging easier 😋</p>
+      <p>💻 Currently focused on becoming a <strong>Full-Stack Developer</strong> by learning <strong>Laravel, React, Node.js</strong>, and <strong>MySQL</strong>.
     </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation">
