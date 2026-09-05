@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,dart,js,figma,git&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,dart,ts,figma,git&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 <br/>
@@ -33,10 +33,8 @@
 ---
 
 
-<h3 align="center">GitHub Activity</h3>
-<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhprn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhprn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Zhprn&theme=dark&hide_border=true&border_radius=3.5" alt="GitHub Streak" />
+  </a>
 </div>
-<br/>
