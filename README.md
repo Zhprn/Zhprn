@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Zhafran+Amuri;Junior+Fullstack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Zhafran+Amuri;" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -24,7 +24,19 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nodejs,express,php,mysql,dart,js,html,css,figma,git&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,dart,js,figma,git&theme=dark" alt="Tech Stack" />
   </a>
+</div>
+<br/>
+
+
+---
+
+
+<h3 align="center">GitHub Activity</h3>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zhprn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhprn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 <br/>
